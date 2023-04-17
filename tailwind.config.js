@@ -10,10 +10,13 @@ module.exports = {
       'light-gray': '#EBEBEB',
       'grayish-blue': '#646D82',
       'light-grayish-blue': '#DEE2E6',
+      'dark-green': '#4ca07a',
       'green': '#1DB67B',
       'light-green': '#DCF5EB',
+      'very-light-green': '#eef8f6',
       'yellow': '#DCF5EB',
-      'red': '#F7617D'
+      'red': '#F7617D',
+      'white': '#ffffff'
     },
     fontFamily: {
       lato: ['Lato', 'sans-serif'],
