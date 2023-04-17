@@ -1,0 +1,1517 @@
+{
+  "nps": [
+    {
+      "_id": "5b9f4c9b9f4c920001e9b8f6",
+      "account": "5ef4d9c78907774f6a9b5421",
+      "name": "Titulo da NPS 01",
+      "description": "Uma pequena descrição de exemplo!",
+      "order": 1,
+      "minutes_to_expire_answer": 12,
+      "created": "2022-02-23T18:25:43.511Z",
+      "text_msg": "Fulano, por favor responda a nossa pesquisa de satisfação:",
+      "text_opening": "Como você avalia o atendimento prestado por nossa equipe?",
+      "text_after": "Gostaria de comentar por quê deu esta nota?",
+      "text_expired": "Infelizmente esta pesquisa de opinião expirou e não pode mais ser respondida.",
+      "text_end": "Obrigado pela sua opinião!",
+      "text_footer": "Atenciosamente, ChatGuru.",
+      "page_text_color": "#000000",
+      "page_bg_color": "#ffffff",
+      "text_answer_10": "Ótimo",
+      "text_answer_0": "Ruim"
+    },
+    {
+      "_id": "5b9f4c9b9f4c920001e9b8f7",
+      "account": "5ef4d9c78907774f6a9b5421",
+      "name": "Titulo da NPS 02",
+      "description": "Outra pequena descrição de exemplo!",
+      "order": 1,
+      "minutes_to_expire_answer": 12,
+      "created": "2022-03-19T11:41:22.511Z",
+      "text_msg": "Fulano, por favor responda a nossa pesquisa de satisfação:",
+      "text_opening": "Como você avalia o atendimento prestado por nossa equipe?",
+      "text_after": "Gostaria de comentar por quê deu esta nota?",
+      "text_expired": "Infelizmente esta pesquisa de opinião expirou e não pode mais ser respondida.",
+      "text_end": "Obrigado pela sua opinião!",
+      "text_footer": "Atenciosamente, ChatGuru.",
+      "page_text_color": "#000000",
+      "page_bg_color": "#ffffff",
+      "text_answer_10": "Ótimo",
+      "text_answer_0": "Ruim"
+    },
+    {
+      "_id": "5b9f4c9b9f4c920001e9b8f8",
+      "account": "5ef4d9c78907774f6a9b5421",
+      "name": "Titulo da NPS 03",
+      "description": "Mais uma pequena descrição de exemplo!",
+      "order": 1,
+      "minutes_to_expire_answer": 12,
+      "created": "2022-02-15T19:40:01.511Z",
+      "text_msg": "Fulano, por favor responda a nossa pesquisa de satisfação:",
+      "text_opening": "Como você avalia o atendimento prestado por nossa equipe?",
+      "text_after": "Gostaria de comentar por quê deu esta nota?",
+      "text_expired": "Infelizmente esta pesquisa de opinião expirou e não pode mais ser respondida.",
+      "text_end": "Obrigado pela sua opinião!",
+      "text_footer": "Atenciosamente, ChatGuru.",
+      "page_text_color": "#000000",
+      "page_bg_color": "#ffffff",
+      "text_answer_10": "Ótimo",
+      "text_answer_0": "Ruim"
+    },
+    {
+      "_id": "5b9f4c9b9f4c920001e9b8f9",
+      "account": "5ef4d9c78907774f6a9b5421",
+      "name": "Titulo da NPS 04",
+      "description": "Isso sim é uma descrição de exemplo!",
+      "order": 1,
+      "minutes_to_expire_answer": 12,
+      "created": "2022-01-30T10:15:13.511Z",
+      "text_msg": "Fulano, por favor responda a nossa pesquisa de satisfação:",
+      "text_opening": "Como você avalia o atendimento prestado por nossa equipe?",
+      "text_after": "Gostaria de comentar por quê deu esta nota?",
+      "text_expired": "Infelizmente esta pesquisa de opinião expirou e não pode mais ser respondida.",
+      "text_end": "Obrigado pela sua opinião!",
+      "text_footer": "Atenciosamente, ChatGuru.",
+      "page_text_color": "#000000",
+      "page_bg_color": "#ffffff",
+      "text_answer_10": "Ótimo",
+      "text_answer_0": "Ruim"
+    },
+    {
+      "_id": "5b9f4c9b9f4c920001e9b8f0",
+      "account": "5ef4d9c78907774f6a9b5421",
+      "name": "Titulo da NPS 05",
+      "description": "Cópia de uma descrição de exemplo!",
+      "order": 1,
+      "minutes_to_expire_answer": 12,
+      "created": "2022-01-26T14:44:44.511Z",
+      "text_msg": "Fulano, por favor responda a nossa pesquisa de satisfação:",
+      "text_opening": "Como você avalia o atendimento prestado por nossa equipe?",
+      "text_after": "Gostaria de comentar por quê deu esta nota?",
+      "text_expired": "Infelizmente esta pesquisa de opinião expirou e não pode mais ser respondida.",
+      "text_end": "Obrigado pela sua opinião!",
+      "text_footer": "Atenciosamente, ChatGuru.",
+      "page_text_color": "#000000",
+      "page_bg_color": "#ffffff",
+      "text_answer_10": "Ótimo",
+      "text_answer_0": "Ruim"
+    }
+  ],
+  "item": {
+    "account": {},
+    "name": "Titulo da NPS 01",
+    "description": "Uma pequena descrição de exemplo!",
+    "order": 1,
+    "minutes_to_expire_answer": 12,
+    "created": "2022-02-23T18:25:43.511Z",
+    "text_msg": "Fulano, por favor responda a nossa pesquisa de satisfação:",
+    "text_opening": "Como você avalia o atendimento prestado por nossa equipe?",
+    "text_after": "Gostaria de comentar por quê deu esta nota?",
+    "text_expired": "Infelizmente esta pesquisa de opinião expirou e não pode mais ser respondida.",
+    "text_end": "Obrigado pela sua opinião!",
+    "text_footer": "Atenciosamente, ChatGuru.",
+    "page_text_color": "#000000",
+    "page_bg_color": "#ffffff",
+    "text_answer_10": "Ótimo",
+    "text_answer_0": "Ruim"
+  },
+  "metrics": {
+    "score": 94.32,
+    "promoters": 1186,
+    "passives": 57,
+    "detractors": 7,
+    "total_answered": 1250,
+    "score_10": 1061,
+    "score_9": 125,
+    "score_8": 49,
+    "score_7": 8,
+    "score_6": 5,
+    "score_5": 0,
+    "score_4": 1,
+    "score_3": 0,
+    "score_2": 1,
+    "score_1": 0,
+    "score_0": 0
+  },
+  "answers-list": [
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 3,
+      "comments": "Atendimento ruim",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 9,
+      "comments": "Atendimento legal",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 7,
+      "comments": "Atendimento Regular",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        },
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "João Silva"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        },
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Financeiro"
+        }
+      ]
+    },
+    {
+      "id": "605f6bfca290e1878451d91c",
+      "nps_id": "605f6bfca290e1878451d91c",
+      "score": 10,
+      "comments": "Atendimento muito bom",
+      "created": "2021-06-23T18:39:28.297661",
+      "answered_date": "2021-06-23T18:39:28.297661",
+      "expiration_date": "2021-06-23T18:39:28.297661",
+      "ip_address": "127.0.0.1",
+      "chat": {
+        "id": "5ff6cd03673c118da70fddad",
+        "name": "Chat Test"
+      },
+      "users_delegated": [
+        {
+          "id": "5bb7b391cda19e6318a07cb6",
+          "name": "Fulano de Tal"
+        }
+      ],
+      "groups_delegated": [
+        {
+          "id": "60c342fcdd84477a70026596",
+          "name": "Comercial"
+        }
+      ]
+    }
+  ]
+}
