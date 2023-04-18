@@ -1,5 +1,5 @@
 <script setup>
-import FilterCard from '../components/FilterCard.vue';
+import FilterCard from '../components/card/FilterCard.vue';
 
 </script>
 
