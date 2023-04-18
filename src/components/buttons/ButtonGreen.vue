@@ -5,5 +5,5 @@ defineProps({
 </script>
 
 <template>
-    <button class="uppercase bg-green rounded px-4 text-light-gray">{{ name }}</button>
+    <button class="uppercase bg-green rounded p-4 text-light-gray">{{ name }}</button>
 </template>
