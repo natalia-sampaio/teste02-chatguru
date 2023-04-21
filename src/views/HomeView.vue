@@ -5,7 +5,6 @@ import ScoreCard from '../components/cards/ScoreCard.vue';
 import TableCard from '../components/cards/TableCard.vue';
 import ChartsCard from '../components/cards/ChartsCard.vue';
 import AnswersListCard from '../components/cards/AnswersListCard.vue';
-
 </script>
 
 <template>
