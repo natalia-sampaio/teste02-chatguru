@@ -1,11 +1,11 @@
 export const data = {
     datasets: [
         {
-            backgroundColor: ['#1DB67B', '#fbcd54', '#F7617D'],
+            backgroundColor: ['#F7617D', '#fbcd54', '#1DB67B'],
             borderColor: '#333333',
             borderWidth: 20,
             data: [33,33,33],
-            needleValue: 94,
+            needleValue: 90,
         }
     ]
 }
@@ -21,7 +21,37 @@ export const options = {
 
 const gaugeNeedle = {
     id: 'gaugeNeedle',
-    afterDatasetDraw() {}
+    afterDatasetDraw(chart, args, options) {
+        const { ctx, config, chartArea: { top, bottom, left, right, width, height } } = chart;
+
+        ctx.save();
+        
+        const needleValue = data.datasets[0].needleValue;
+        const topScore = 100;
+        const angle = Math.PI + (1 / topScore * needleValue * Math.PI);
+        const chartX = width/2;
+        const chartY = chart._metasets[0].data[0].y;
+        const needleSize = height/2;
+        console.log(height)
+
+        //needle
+        ctx.translate(chartX, chartY);
+        ctx.rotate(angle);
+        ctx.beginPath();
+        ctx.moveTo(0, -2);
+        ctx.lineTo(needleSize, 0);
+        ctx.lineTo(0, 2);
+        ctx.fillStyle = '#EBEBEB';
+        ctx.fill();
+
+        //needle dot
+        ctx.translate(-chartX, -chartY);
+        ctx.beginPath();
+        ctx.arc(chartX, chartY, 5, 0, 10);
+        ctx.fill();
+        ctx.restore();
+
+    }
 }
 
 export const plugins = [gaugeNeedle];

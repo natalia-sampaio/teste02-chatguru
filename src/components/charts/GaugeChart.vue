@@ -8,7 +8,7 @@ ChartJS.register(ArcElement, Tooltip, Legend);
 </script>
 
 <template>
-    <div>
-        <Doughnut :data="chartConfig.data" :options="chartConfig.options" />
+    <div class="flex justify-center items-center">
+        <Doughnut :data="chartConfig.data" :options="chartConfig.options" :plugins="chartConfig.plugins" />
     </div>
 </template>
