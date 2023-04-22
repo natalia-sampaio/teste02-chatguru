@@ -94,4 +94,5 @@ const dateFormat = (date) => {
 
 <style lang="sass" scoped>
 
+
 </style>
