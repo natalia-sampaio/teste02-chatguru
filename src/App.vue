@@ -1,6 +1,31 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
 import ButtonGreen from './components/buttons/ButtonGreen.vue';
+import HomeView from './views/HomeView.vue';
+</script>
+
+<script>
+export default {
+    data() {
+        return {
+            windowWidth: null,
+            desktop: null
+        };
+    },
+    methods: {
+        checkScreen() {
+            this.windowWidth = window.innerWidth;
+            if (this.windowWidth >= 1280) {
+                this.desktop = true;
+                return;
+            }
+            this.desktop = false;
+        }
+    },
+    created() {
+        window.addEventListener("resize", this.checkScreen);
+        this.checkScreen();
+    }
+}
 </script>
 
 <template>
@@ -12,5 +37,5 @@ import ButtonGreen from './components/buttons/ButtonGreen.vue';
     <ButtonGreen :name="'Voltar à lista'" />
   </header>
 
-  <RouterView />
+  <HomeView :desktop="desktop" />
 </template>

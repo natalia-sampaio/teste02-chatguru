@@ -7,7 +7,8 @@ const scores = Array.from(Array(11).keys());
 
 <template>
     <BaseCard>
-        <BaseTable tableTitle="Porcentagem por nota">
+        <h4 class="uppercase font-semibold">Porcentagem por nota</h4>
+        <BaseTable class="w-full h-5/6">
             <template #tableHeaders>
                 <th>#</th>
                 <th>Nota</th>

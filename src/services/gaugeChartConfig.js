@@ -12,7 +12,7 @@ export const data = {
 
 export const options = {
     responsive: true,
-    maintainAspectRatio: true,
+    maintainAspectRatio: false,
     cutout: 50,
     rotation: -90,
     circumference: 180

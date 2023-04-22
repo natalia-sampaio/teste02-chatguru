@@ -10,7 +10,7 @@ export const data = {
 
 export const options = {
     responsive: true,
-    maintainAspectRatio: true,
+    maintainAspectRatio: false,
     cutout: 90,
     plugins: {
         legend: {
