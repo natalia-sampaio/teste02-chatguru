@@ -56,8 +56,8 @@ export default {
                         <td>{{ answer.score }}</td>
                         <td>{{ answer.chat.name }}</td>
                         <td>{{ answer.comments }}</td>
-                        <td v-for="user in answer.users_delegated" :key="user.id">{{ user.name }}</td>
-                        <td v-for="group in answer.groups_delegated" :key="group.id">{{ group.name }}</td>
+                        <td><span v-for="user in answer.users_delegated" :key="user.id">{{ user.name }} <br></span></td>
+                        <td><span v-for="group in answer.groups_delegated" :key="group.id">{{ group.name }} <br></span></td>
                         <td>{{ dateFormat(answer.created) }}</td>
                         <td>{{ dateFormat(answer.answered_date) }}</td>
                     </tr>
