@@ -1,13 +1,3 @@
-export const data = {
-    labels: ['Promotores'],
-    datasets: [
-        {
-            backgroundColor: ['#41B883', '#ffffff'],
-            data: [1186, 64]
-        }
-    ]
-}
-
 export const options = {
     responsive: true,
     maintainAspectRatio: false,
@@ -17,7 +7,6 @@ export const options = {
             position: 'bottom',
             labels: {
                 boxWidth: 0,
-                color: '#41B883',
                 font: {
                     family: "'Lato', 'sans-serif'",
                     size: 18,
@@ -37,7 +26,7 @@ const doughnutLabel = {
         const xCoord = chart.getDatasetMeta(0).data[0].x;
         const yCoord = chart.getDatasetMeta(0).data[0].y;
         ctx.font = 'bold 30px Lato';
-        ctx.fillStyle = '#41B883';
+        ctx.fillStyle = '#646D82';
         ctx.textAlign = 'center';
         ctx.textBaseline = 'middle';
         ctx.fillText(data.datasets[0].data[0], xCoord, yCoord);
