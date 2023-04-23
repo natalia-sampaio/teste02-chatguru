@@ -20,7 +20,7 @@ export default {
 <template>
     <BaseCard>
         <h4>Quantidade por tipo</h4>
-        <div class="flex justify-evenly">
+        <div class="flex justify-evenly my-8">
             <DoughnutChart 
             :data="{
                 labels: ['PROMOTORES'],

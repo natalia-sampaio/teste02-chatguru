@@ -17,7 +17,7 @@ export const data = {
 export const options = {
     responsive: true,
     maintainAspectRatio: false,
-    cutout: 50,
+    cutout: 70,
     rotation: -90,
     circumference: 180,
     plugins: {

@@ -1,7 +1,7 @@
 export const options = {
     responsive: true,
     maintainAspectRatio: false,
-    cutout: 90,
+    cutout: 95,
     plugins: {
         legend: {
             position: 'bottom',
