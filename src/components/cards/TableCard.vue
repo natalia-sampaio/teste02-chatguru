@@ -31,7 +31,7 @@ export default {
                 <th>%</th>
             </template>
             <template #tableRows>
-                <tr v-for="score in scores" class="border-b border-light-grayish-blue" :class="score <= 6 ? 'text-red' : score <= 8 ? 'text-yellow' : 'text-green'">
+                <tr v-for="score in scores" class="border-b border-light-grayish-blue font-bold" :class="score <= 6 ? 'text-red' : score <= 8 ? 'text-yellow' : 'text-green'">
                     <td>#</td>
                     <td>{{ score }}</td>
                     <td>{{ metrics[`score_${score}`] }}</td>

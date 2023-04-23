@@ -13,11 +13,26 @@ const dateFormat = (date) => {
 export default {
     data() {
         return {
-            answersList: []
+            answersList: [],
+            currentPage: 1,
+            itemsPerPage: 10,
+            maxPagesShown: 5
+        }
+    },
+    methods: {
+        onClickHandler(page) {
+            this.currentPage = page;
         }
     },
     async beforeMount() {
         this.answersList = await getAnswersList();
+    },
+    computed: {
+        answersPage() {
+            let firstIndex = (this.currentPage-1) * this.itemsPerPage;
+            let lastIndex = this.currentPage * this.itemsPerPage;
+            return this.answersList.slice(firstIndex, lastIndex);
+        }
     }
 }
 </script>
@@ -37,7 +52,7 @@ export default {
                     <th>Data de resposta</th>
                 </template>
                 <template #tableRows>
-                    <tr v-for="answer in answersList" :key="answersList.id" class="border-b border-light-grayish-blue">
+                    <tr v-for="answer in answersPage" :key="answer.id" class="border-b border-light-grayish-blue">
                         <td>{{ answer.score }}</td>
                         <td>{{ answer.chat.name }}</td>
                         <td>{{ answer.comments }}</td>
@@ -49,6 +64,22 @@ export default {
                 </template>
             </BaseTable>
         </div>
+        <div class="text-center">
+            <vue-awesome-paginate
+            :total-items="answersList.length"
+            :items-per-page="itemsPerPage"
+            :max-pages-shown="maxPagesShown"
+            v-model="currentPage"
+            :on-click="onClickHandler"
+            :hide-prev-next-when-ends="true"
+            prev-button-content="Página anterior"
+            next-button-content="Próxima página"
+            paginate-buttons-class="text-green font-bold py-2 px-4 border border-light-grayish-blue border-r-0"
+            active-page-class="bg-light-grayish-blue"
+            back-button-class="border-l rounded-l-xl"
+            next-button-class="border-r rounded-r-xl"
+          />
+        </div>
     </BaseCard>
 </template>
 
@@ -56,5 +87,6 @@ export default {
 
 th, td
     padding-right: 4rem
+    line-height: 3rem
 
 </style>

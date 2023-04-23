@@ -5,7 +5,7 @@
                 <slot name="tableHeaders"></slot>
             </tr>
         </thead>
-        <tbody class="font-bold">
+        <tbody>
             <slot name="tableRows"></slot>
         </tbody>
     </table>
