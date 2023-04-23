@@ -1,11 +1,15 @@
+import { getMetrics } from "./npsRequests";
+
+const metrics = await getMetrics();
+
 export const data = {
     datasets: [
         {
             backgroundColor: ['#F7617D', '#fbcd54', '#1DB67B'],
             borderColor: '#333333',
-            borderWidth: 20,
+            borderWidth: 15,
             data: [33,33,33],
-            needleValue: 90,
+            needleValue: metrics.score,
         }
     ]
 }
@@ -15,8 +19,12 @@ export const options = {
     maintainAspectRatio: false,
     cutout: 50,
     rotation: -90,
-    circumference: 180
-
+    circumference: 180,
+    plugins: {
+        tooltip: {
+            enabled: false
+        }
+    }
 }
 
 const gaugeNeedle = {
@@ -32,7 +40,6 @@ const gaugeNeedle = {
         const chartX = width/2;
         const chartY = chart._metasets[0].data[0].y;
         const needleSize = height/2;
-        console.log(height)
 
         //needle
         ctx.translate(chartX, chartY);
