@@ -16,6 +16,7 @@
     "json-server": "^0.17.3",
     "pinia": "^2.0.32",
     "vue": "^3.2.47",
+    "vue-awesome-paginate": "^1.1.46",
     "vue-chartjs": "^5.2.0",
     "vue-router": "^4.1.6"
   },

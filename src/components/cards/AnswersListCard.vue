@@ -1,64 +1,24 @@
 <script setup>
+import { getAnswersList } from '../../services/npsRequests';
 import BaseTable from '../tables/BaseTable.vue';
 import BaseCard from './BaseCard.vue';
 import dayjs from 'dayjs';
 
-const answersList = [
-    {
-        "id": "605f6bfca290e1878451d91c",
-        "nps_id": "605f6bfca290e1878451d91c",
-        "score": 10,
-        "comments": "Atendimento muito bom",
-        "created": "2021-06-23T18:39:28.297661",
-        "answered_date": "2021-06-23T18:39:28.297661",
-        "expiration_date": "2021-06-23T18:39:28.297661",
-        "ip_address": "127.0.0.1",
-        "chat": {
-            "id": "5ff6cd03673c118da70fddad",
-            "name": "Chat Test"
-        },
-        "users_delegated": [
-            {
-                "id": "5bb7b391cda19e6318a07cb6",
-                "name": "Fulano de Tal"
-            }
-        ],
-        "groups_delegated": [
-            {
-                "id": "60c342fcdd84477a70026596",
-                "name": "Comercial"
-            }
-        ]
-    },
-    {
-        "id": "605f6bfca290e1878451d91c",
-        "nps_id": "605f6bfca290e1878451d91c",
-        "score": 10,
-        "comments": "Atendimento muito bom",
-        "created": "2021-06-23T18:39:28.297661",
-        "answered_date": "2021-06-23T18:39:28.297661",
-        "expiration_date": "2021-06-23T18:39:28.297661",
-        "ip_address": "127.0.0.1",
-        "chat": {
-            "id": "5ff6cd03673c118da70fddad",
-            "name": "Chat Test"
-        },
-        "users_delegated": [
-            {
-                "id": "5bb7b391cda19e6318a07cb6",
-                "name": "Fulano de Tal"
-            }
-        ],
-        "groups_delegated": [
-            {
-                "id": "60c342fcdd84477a70026596",
-                "name": "Comercial"
-            }
-        ]
-    },]
-
 const dateFormat = (date) => {
     return dayjs(date).format('DD/MM/YYYY HH:mm:ss')
+}
+</script>
+
+<script>
+export default {
+    data() {
+        return {
+            answersList: []
+        }
+    },
+    async beforeMount() {
+        this.answersList = await getAnswersList();
+    }
 }
 </script>
 
