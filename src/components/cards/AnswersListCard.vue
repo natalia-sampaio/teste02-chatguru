@@ -65,9 +65,9 @@ const dateFormat = (date) => {
 <template>
     <BaseCard>
         <h4 class="uppercase font-semibold">Listagem de respostas</h4>
-        <div class="overflow-x-auto pb-16">
-            <BaseTable class="">
-                <template #tableHeaders>
+        <div class="overflow-x-auto pb-8">
+            <BaseTable class="w-full">
+                <template #tableHeaders class="table-header">
                     <th>Nota</th>
                     <th>Nome do chat</th>
                     <th>Comentário</th>
@@ -92,7 +92,9 @@ const dateFormat = (date) => {
     </BaseCard>
 </template>
 
-<style lang="sass" scoped>
+<style lang="sass" scoped >
 
+th, td
+    padding-right: 4rem
 
 </style>
